@@ -1,1 +1,2 @@
-# gits-msib4-tugas2
+Nama  :Fadlan Triana Nugraha
+Univ  : Institut Teknologi Pembangkit Listrik Negara/IT-PLN
